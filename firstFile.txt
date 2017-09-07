@@ -1,1 +1,1 @@
-Hi this is very first file in the repo.
+This is very first file in the repo.
